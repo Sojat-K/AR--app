@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.2.15">
+        <ModelTarget name="3Dmodel" targetId="8a6a4068e5cf4a02b61d5a20a1f63ecf" version="13.0" toolVersion="v6.2.15" bbox="-0.043206 0.086285 -0.310532 0.042678 0.119711 -0.246680" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="3Dmodel" assemblyId="a3b1e3f8335d4dc9a4d73e8cd221b71b">
+        <Part name="3Dmodel" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
